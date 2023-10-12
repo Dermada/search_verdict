@@ -12,6 +12,7 @@ You can learn more about this dataset by referring to the following thesis:
 Nuranti, E. Q., Yulianti, E., & Husin, H. S. (2022). Predicting the Category and the Length of Punishment in Indonesian Courts Based on Previous Court Decision Documents. Computers, 11(6), 88.
 
 ## Usage
+The program could only run for the dataset mentioned in the Acknowledgements sub-section
 The program should be run from the command line. It accepts the following arguments:
 ```xml
 python search.py [desired_section] [kata_kunci1] [search_filter] [kata_kunci2] SORTBY [element_to_sort]
@@ -45,9 +46,6 @@ The program allows you to sort the search results by specifying the element you 
 This program was created by Dermada@github.
 
 ## License
-This project is licensed under Apache License 2.0. Available for:  
-Commercial use  
-Modification  
-Distribution  
-Patent use  
-Private use
+This project is licensed under GNU General Public License 3.0  
+for more details, please check the license file:
+https://github.com/Dermada/search_verdict/blob/889d5b39491b4c9023300640b68cd8ab8c625dea/LICENSE
