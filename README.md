@@ -12,7 +12,7 @@ You can learn more about this dataset by referring to the following thesis:
 Nuranti, E. Q., Yulianti, E., & Husin, H. S. (2022). Predicting the Category and the Length of Punishment in Indonesian Courts Based on Previous Court Decision Documents. Computers, 11(6), 88.
 
 ## Usage
-The program could only run for the dataset mentioned in the Acknowledgements sub-section
+The program could only run for the dataset mentioned in the Acknowledgements sub-section  
 The program should be run from the command line. It accepts the following arguments:
 ```xml
 python search.py [desired_section] [kata_kunci1] [search_filter] [kata_kunci2] SORTBY [element_to_sort]
